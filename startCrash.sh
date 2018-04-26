@@ -1,1 +1,1 @@
-./IntelliJIDEALicenseServer_linux_amd64 &
+nohup ./IntelliJIDEALicenseServer_linux_amd64 &
